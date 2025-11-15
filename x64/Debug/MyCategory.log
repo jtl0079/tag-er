@@ -1,0 +1,3 @@
+﻿  Tag.cpp
+C:\Cpp_Files\MyCategory\MyCategory\Tag.h(3004,22): warning C4244: 'initializing': conversion from 'double' to 'int64_t', possible loss of data
+  MyCategory.vcxproj -> C:\Cpp_Files\MyCategory\x64\Debug\MyCategory.exe
